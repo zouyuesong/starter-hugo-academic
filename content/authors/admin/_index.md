@@ -52,9 +52,9 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-I have a broad interest in theoretical computer science.
+I am a master's student at McGill University, where I'm very fortunate to be advised by [](https://people.csail.mit.edu/rrw/)[﻿Prof. Yue Li](https://www.cs.mcgill.ca/~yueli/). Prior to that, I received my bachelor's degree from [Yao Class](http://iiis.tsinghua.edu.cn/en/yaoclass/) at Tsinghua University.
 
-I am a master student at McGill University, where I'm very fortunate to be advised by [](https://people.csail.mit.edu/rrw/)[﻿Prof. Yue Li](https://www.cs.mcgill.ca/~yueli/). Prior to that, I received my bachelor's degree from [Yao Class](http://iiis.tsinghua.edu.cn/en/yaoclass/) at Tsinghua University.
+My research interests include computational healthcare, biomedical knowledge graph, graph representation learning, and topic modeling. 
 
 At Tsinghua University, I was advised by Prof. [Jian Li](http://iiis.tsinghua.edu.cn/~jianli/), working on *[Multi-Armed Bandits](https://www.mit.edu/~lijieche/papersCat.html#MAB)*. During the Spring of 2016, I was visiting MIT, working under the supervision of Prof. [Scott Aaronson](https://www.scottaaronson.com/) on *[Quantum Complexity](https://www.mit.edu/~lijieche/papersCat.html#quantum)*. \[[CV]](https://www.mit.edu/~lijieche/CV.pdf)
 
