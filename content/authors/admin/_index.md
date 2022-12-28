@@ -14,22 +14,22 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/YuesongZ
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=zh-CN&user=K-eOE88AAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/zouyuesong
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/yuesong-joseph-zou-200814191/
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://mcgill-my.sharepoint.com/:b:/g/personal/yuesong_zou_mail_mcgill_ca/EWMlK8IJKuxOlOmh7SXpNNcBKUFrvi-Go-suZ95ahNfytg?e=OM2nXn
 organizations:
   - name: McGill University
     url: https://www.mcgill.ca
