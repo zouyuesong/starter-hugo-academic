@@ -6,7 +6,7 @@ publication_types:
   - "1"
 authors:
   - Ruochi Zhang
-  - Yuesong Zou
+  - "**Yuesong Zou**"
   - Jian Ma
 author_notes: []
 publication: In *ICLR 2020*
@@ -20,7 +20,7 @@ url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 url_video: https://youtube.com
 title: "Hyper-SAGNN: a self-attention based graph neural network for hypergraphs"
 doi: ""
-featured: true
+featured: false
 tags: []
 projects:
   - example
@@ -30,7 +30,7 @@ image:
   preview_only: false
 date: 2022-12-28T18:07:20.545Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: https://github.com/wowchemy/wowchemy-hugo-themes
 ---
