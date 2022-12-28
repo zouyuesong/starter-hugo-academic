@@ -13,23 +13,12 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text:
   - block: collection
-    id: featured
     content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
-    content:
-      title: Recent Publications
+      title: Publications
       text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+        # {{% callout note %}}
+        # Quickly discover relevant content by [filtering publications](./publication/).
+        # {{% /callout %}}
       filters:
         folders:
           - publication
@@ -40,7 +29,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Presentation(s)
       filters:
         folders:
           - event
