@@ -1,5 +1,7 @@
 ---
 title: Yuesong (Joseph) Zou
+first_name: Yuesong
+last_name: Zou
 role: Master's student, McGill University
 avatar_filename: avatar.jpg
 bio: We are what we repeatedly do. 
@@ -41,11 +43,8 @@ education:
       institution: Tsinghua University, Yao Class
       year: 2020
 superuser: true
-status:
-  icon: ☕️
-last_name: Zou
 highlight_name: true
-first_name: Yuesong
+
 email: ""
 ---
 I am a master's student at McGill University, where I'm very fortunate to be advised by [](https://people.csail.mit.edu/rrw/)[﻿Prof. Yue Li](https://www.cs.mcgill.ca/~yueli/). Prior to that, I received my bachelor's degree from [Yao Class](http://iiis.tsinghua.edu.cn/en/yaoclass/) at Tsinghua University.
