@@ -9,13 +9,13 @@ authors:
   - "**Yuesong Zou**"
   - Jian Ma
 author_notes: []
-publication: In *ICLR 2020*
+publication: ""
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
   condimentum.
 url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_project: ""
-publication_short: In *ICW*
+publication_short: In *ICLR 2020*
 url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 url_video: https://youtube.com
 title: "Hyper-SAGNN: a self-attention based graph neural network for hypergraphs"
@@ -28,7 +28,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-date: 2022-12-28T18:07:20.545Z
+date: 2022-12-28T18:46:02.995Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
