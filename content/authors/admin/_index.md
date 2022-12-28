@@ -55,4 +55,4 @@ My research interests include computational healthcare, biomedical knowledge gra
 
 \
 
-{style="text-align: left;"}
+{style="text-align: justify;"}
