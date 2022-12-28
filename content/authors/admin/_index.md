@@ -1,7 +1,7 @@
 ---
 title: Yuesong (Joseph) Zou
 role: Master student, McGill University
-avatar_filename: zys-large.jpeg
+avatar_filename: avatar.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
