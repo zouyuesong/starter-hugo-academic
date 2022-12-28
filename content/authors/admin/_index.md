@@ -43,9 +43,9 @@ education:
 superuser: true
 status:
   icon: ☕️
-last_name: Wu
+last_name: Zou
 highlight_name: true
-first_name: Alice
+first_name: Yuesong
 email: ""
 ---
 I am a master's student at McGill University, where I'm very fortunate to be advised by [](https://people.csail.mit.edu/rrw/)[﻿Prof. Yue Li](https://www.cs.mcgill.ca/~yueli/). Prior to that, I received my bachelor's degree from [Yao Class](http://iiis.tsinghua.edu.cn/en/yaoclass/) at Tsinghua University.
