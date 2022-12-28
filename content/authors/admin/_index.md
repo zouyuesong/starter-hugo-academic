@@ -54,5 +54,3 @@ I am a master's student at McGill University, where I'm very fortunate to be adv
 My research interests include computational healthcare, biomedical knowledge graph, graph representation learning, and topic modeling. 
 
 \
-
-{style="text-align: left;"}
