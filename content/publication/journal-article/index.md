@@ -6,7 +6,7 @@ publication_types:
   - "2"
 authors:
   - Yuri Ahuja
-  - </strong>Yuesong Zou</strong>
+  - Yuesong Zou
   - Aman Verma
   - David Buckeridge
   - Yue Li
