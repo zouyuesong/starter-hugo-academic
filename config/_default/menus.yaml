@@ -7,24 +7,15 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Posts
-    url: '#posts'
-    weight: 20
-  - name: Projects
-    url: '#projects'
-    weight: 30
-  - name: Talks
+  - name: Publications & Presentations
     url: '#talks'
+    weight: 30
+  - name: About me
+    url: '#aboutme'
     weight: 40
-  - name: Publications
-    url: '#featured'
-    weight: 50
-  - name: Contact
-    url: '#contact'
-    weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: CV
-#    url: uploads/resume.pdf
-#    weight: 70
+  - name: CV
+    url: https://mcgill-my.sharepoint.com/personal/yuesong_zou_mail_mcgill_ca/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fyuesong%5Fzou%5Fmail%5Fmcgill%5Fca%2FDocuments%2Fcv%2D3%2E2%2Epdf&parent=%2Fpersonal%2Fyuesong%5Fzou%5Fmail%5Fmcgill%5Fca%2FDocuments&ct=1669147287736&or=OWA%2DNT&cid=c10998cb%2D043d%2D4aa5%2D7780%2D380b95a590fa&ga=1
+    weight: 20
