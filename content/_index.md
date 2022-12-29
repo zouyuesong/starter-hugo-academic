@@ -16,3 +16,4 @@ weight: 10 # Position of section on page
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
 author: 'admin'
 
+---
